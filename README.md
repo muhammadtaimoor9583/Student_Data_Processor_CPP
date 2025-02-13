@@ -41,4 +41,4 @@ This project is licensed under the MIT License - see the `LICENSE.md` file for d
 
 Thanks to contributors who helped in building this project.
 - Junaid Salim
-- Muhammad Taimoor
+- Hamza Faraz
